@@ -1,0 +1,30 @@
+.div1 {
+    width: 700px;
+    margin-left: 100px;
+    height: 440px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.spanty1{
+    padding-top: 12px;
+    display: block;
+}
+
+/* .spanty2{
+    margin-left: 80px;
+} */
+
+.tablety1{
+    width:600px;
+
+}
+.beizhu{
+    color: red;
+    font-size: 13px;
+    width: 640px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
